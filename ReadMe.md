@@ -7,7 +7,7 @@
 * QT
 * C++11
 * LevelDB
-## 本工程：MTCNN人脸检测器与Vgg-Face特征、levelDB存储特征
+## 本工程：[MTCNN][1]人脸检测器与Vgg-Face特征、levelDB存储特征
 ## 各目录：
 	DataBase: 数据库(使用LevelDB实现，保存姓名(即id)、vgg特征、图片路径)；
 	image:注册图片保存；
@@ -35,4 +35,4 @@
 		VggFeature:Vgg-Face特征；
 	界面类：
 		FaceRec：管理线程与空间；
-[1]: [MTCNN](https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs)
+[1]: https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs "MTCNN"
