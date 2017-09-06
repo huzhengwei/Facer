@@ -2,7 +2,7 @@
 
 > Copyright (c) 2011 huzhengwei. All rights reserved. Author:huzhengwei, zhengwei_hu@163.com
 
-> you can modifiy the code for you own feature by inherit the abstract class
+> You can modifiy the code for you own feature by inherit the abstract class
 ## Requied
 * QT
 * C++11
