@@ -1,13 +1,6 @@
 # Face recognition framework: Face detector, Face descriptor, Database
 
-> /*//////////////////////////////////////////////////////
-//
-// Copyright (c) 2011 huzhengwei. All rights reserved.
-//
-// Author:
-//			huzhengwei, zhengwei_hu@163.com
-//
-///////////////////////////////////////////////////////*/
+> Copyright (c) 2011 huzhengwei. All rights reserved. Author:huzhengwei, zhengwei_hu@163.com
 ## 本工程：MTCNN人脸检测器与Vgg-Face特征、levelDB存储特征
 ## 各目录：
 	DataBase: 数据库(使用LevelDB实现，保存姓名(即id)、vgg特征、图片路径)；
