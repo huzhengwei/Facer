@@ -6,7 +6,6 @@
 ## Requied
 * QT
 * C++11
-* [MTCNN](https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs)
 * LevelDB
 ## 本工程：MTCNN人脸检测器与Vgg-Face特征、levelDB存储特征
 ## 各目录：
@@ -36,3 +35,4 @@
 		VggFeature:Vgg-Face特征；
 	界面类：
 		FaceRec：管理线程与空间；
+[1] [MTCNN](https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs)
