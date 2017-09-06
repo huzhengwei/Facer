@@ -35,4 +35,4 @@
 		VggFeature:Vgg-Face特征；
 	界面类：
 		FaceRec：管理线程与空间；
-[1] [MTCNN](https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs)
+[1]: [MTCNN](https://github.com/happynear/MTCNN_face_detection_alignment/tree/master/code/codes/vs)
